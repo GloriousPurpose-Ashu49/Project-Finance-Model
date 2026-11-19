@@ -42,3 +42,5 @@ Tools & Skills Used:
 - Cash Flow Analysis
 - Debt and Equity Structuring
 - DSCR, IRR and NPV
+
+Conclusion: The model shows how a large-scale solar project can be planned and evaluated financially. It connects the initial investment and funding requirements with future revenue, operating costs, debt repayment and project returns.
